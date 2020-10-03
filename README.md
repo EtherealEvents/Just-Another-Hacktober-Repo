@@ -6,6 +6,14 @@ You can use the [editor on GitHub](https://github.com/Ethereal-Events/Just-Anoth
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### How to use git
+
+```
+git add .
+git commit -m "Your commit message"
+git push
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
