@@ -1,0 +1,32 @@
+{
+  "name": "Just-Another-Hacktober-Repo",
+  "version": "1.0.0",
+  "description": "### In association with DSC Bennett, Codechef Bennett and DeepConnectAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon -x ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ethereal-Events/Just-Another-Hacktober-Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ethereal-Events/Just-Another-Hacktober-Repo/issues"
+  },
+  "homepage": "https://github.com/Ethereal-Events/Just-Another-Hacktober-Repo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socketio": "^1.0.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^2.1.11",
+    "nodemon": "^2.0.4"
+  }
+}
