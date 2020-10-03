@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Ethereal Events Hacktoberfest Prep
+
+### In association with DSC Bennet, Codechef Bennett and DeepConnectAI
 
 You can use the [editor on GitHub](https://github.com/Ethereal-Events/Just-Another-Hacktober-Repo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
