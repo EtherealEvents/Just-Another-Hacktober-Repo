@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### How to use git
 
 ```
+git pull
 git add .
 git commit -m "Your commit message"
 git push
