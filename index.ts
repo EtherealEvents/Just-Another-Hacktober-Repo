@@ -28,6 +28,7 @@ io.on('connection', (socket) => {
 
 	socket.on('data', function (data) {
 		console.log(data)
+		socket.emit('data',JSON.stringify(data))
 	})
 
 	socket.on('disconnect', function () {
