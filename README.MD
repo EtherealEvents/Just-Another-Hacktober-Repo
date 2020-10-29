@@ -1,3 +1,3 @@
-Run `npm i` and `npm start`
+Run `npm install` and `npm start`
 
 `python client.py`
